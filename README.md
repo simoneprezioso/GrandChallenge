@@ -1,6 +1,12 @@
 # 🏦 Italian Financial Challenge
 
-Welcome to the Italian Financial Challenge! This repository contains all the materials you need to complete your machine learning project on Italian corporate financial data.
+Update - Challenge Winners:
+1. Simone Prezioso
+2. Claudio de Acutis
+3. Alexandre Viallard
+4. Alessandro Vertunni
+
+To See final demo: https://grand-challenge--simoneprezzioso.replit.app
 
 ---
 
